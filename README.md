@@ -4,6 +4,6 @@ And using pretrained model aravec https://archive.org/download/aravec2.0/tweet_c
 with embedding dimension 300 with LSTM Model 
 
 # Accuracies
-Accuracy on train = 87.8%
-Accuracy on validation = 87.7%
-Accuracy on test = 90.5%
+Accuracy on train = 77.5%
+Accuracy on validation = 77.5%
+Accuracy on test = 76.5%
